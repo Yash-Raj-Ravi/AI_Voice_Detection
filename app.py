@@ -12,7 +12,7 @@ from feature_extractor import extract_features_with_stats
 # =====================
 # CONFIG
 # =====================
-API_KEY = "sk_test_123456789"
+API_KEY = "YOUR_API_KEY"
 
 SUPPORTED_LANGUAGES = {
     "english", "hindi", "tamil", "telugu", "malayalam"
